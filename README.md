@@ -1,7 +1,7 @@
-## Welcome to My Page
+# Welcome to My Page
 
 ----------------
-### Projects
+## Projects
 <br>
 
 |Name|Kalimba|
@@ -47,5 +47,18 @@
 |Language|JS|
 |Frame(s)|Node JS + Electron|
 |Link|[Project](https://github.com/xns1997/homeworkReminder)|
+
+<br>
+
+|Name|VoteBook|
+|-----|-----|
+|Type|In-Class Project|
+|Description|A Web-Based Voting App For CS 290(Web Devlopment)|
+|Language|JS|
+|Frame(s)|Node JS + MongoDB|
+|Link|[Project](https://github.com/xns1997/final-project-tom-and-jerry)|
+
+<br>
+<img src="https://github.com/xns1997/final-project-tom-and-jerry/blob/master/public/logo.png" width=150>
 
 <br>
