@@ -59,6 +59,14 @@
 |Link|[Project](https://github.com/xns1997/final-project-tom-and-jerry)|
 
 <br>
-<img src="https://github.com/xns1997/final-project-tom-and-jerry/blob/master/public/logo.png" width=150>
+<img src="./logo.png" width=150>
 
 <br>
+
+|Name|Animal Crossing Handbook|
+|-----|-----|
+|Type|In-Class Project|
+|Description|A Web-Based Animal Crossing Handbook For CS 340(Database Management)|
+|Language|JS + Python + SQL|
+|Frame(s)|Django + MySQL|
+|Link|[Project](https://github.com/xns1997/CS340_Final)|
