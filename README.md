@@ -70,3 +70,15 @@
 |Language|JS + Python + SQL|
 |Frame(s)|Django + MySQL|
 |Link|[Project](https://github.com/xns1997/CS340_Final)|
+
+<br>
+
+|Name|Python Official Document Translation|
+|-----|-----|
+|Type|Document|
+|Description|Python official document translation project (English-Simplified Chinese)|
+|Language|Python + English + Simplified Chinese|
+|Translation Tool|transifex|
+|Links|[GitHub](https://github.com/python/python-docs-zh-cn) &nbsp; [Doc](https://docs.python.org/zh-cn/3/)|
+|Participation|[c-api--conversion](https://docs.python.org/zh-cn/3/c-api/conversion.html) &nbsp; [calendar](https://docs.python.org/zh-cn/3/library/calendar.html) &nbsp; [cmath](https://docs.python.org/zh-cn/3/library/cmath.html) &nbsp; [cmd](https://docs.python.org/zh-cn/3/library/cmd.html) &nbsp; [decimal](https://docs.python.org/zh-cn/3/library/decimal.html) &nbsp; [json](https://docs.python.org/zh-cn/3/library/json.html) &nbsp; [statistics](https://docs.python.org/zh-cn/3/library/statistics.html) &nbsp; [zipimport](https://docs.python.org/zh-cn/3/library/zipimport.html)| 
+
