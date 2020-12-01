@@ -15,6 +15,8 @@
 <br>
 <img src="./Kalimba.png" title="Kalimba UI" width=100 >
 
+<br>
+
 |Name|Python Tutorial for ME_599|
 |-----|-----|
 |Type|Self-Made Tutorials|
@@ -22,6 +24,8 @@
 |Language|Python|
 |Frame(s)|iPython + Jupyter Notebook|
 |Link|[Tutorial](https://github.com/xns1997/python_tutorial_for_ME_599)|
+
+<br>
 
 |Name|Web_Crawler_For_Guan_CN|
 |-----|-----|
@@ -34,6 +38,8 @@
 |Link 2|[Data Source: Guan](https://api.bilibili.com/x/space/arc/search?mid=10330740&ps=30&tid=0&pn=1)|
 |Link 3|[Data Source: GuanShiPin](https://api.bilibili.com/x/space/arc/search?mid=54992199&ps=30&tid=0&pn=1)|
 
+<br>
+
 |Name|Homework Reminder|
 |-----|-----|
 |Type|In-Class Project|
@@ -41,3 +47,5 @@
 |Language|JS|
 |Frame(s)|Node JS + Electron|
 |Link|[Project](https://github.com/xns1997/homeworkReminder)|
+
+<br>
