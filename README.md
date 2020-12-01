@@ -33,3 +33,11 @@
 |Link 1|[Project](https://github.com/xns1997/Web_Crawler_For_Guan_CN)|
 |Link 2|[Data Source: Guan](https://api.bilibili.com/x/space/arc/search?mid=10330740&ps=30&tid=0&pn=1)|
 |Link 3|[Data Source: GuanShiPin](https://api.bilibili.com/x/space/arc/search?mid=54992199&ps=30&tid=0&pn=1)|
+
+|Name|Homework Reminder|
+|-----|-----|
+|Type|In-Class Project|
+|Description|A Cross-platform Desktop Schedule Reminder Program For CS 361(Software Engineering I)|
+|Language|JS|
+|Frame(s)|Node JS + Electron|
+|Link|[Project](https://github.com/xns1997/homeworkReminder)|
