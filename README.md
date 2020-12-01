@@ -1,6 +1,26 @@
 # Welcome to My Page
 
 ----------------
+## About
+* Name: Naisen Xu
+* E-Mail(QQ) : [723648649@qq.com](mailto:723648649@qq.com)
+* E-Mail(Google) : [naisenxu@gmail.com](mailto:naisenxu@gmail.com)
+* E-Mail(OSU) : [xuna@oregonstate.edu](mailto:xuna@oregonstate.edu)
+* Phone(USA) : +15412868309
+* Phone(China) : +8615069189313
+* Education: Bachelor Degree, Computer Science, Oregon State University 
+### Skills
+||Experience|Level|
+|-----|-----|-----|
+|C/C++|2017~|3/5|
+|Python|2018~|4/5|
+|HTML+CSS+JS|2017~|4/5|
+|VB6|2009~|3/5|
+|VBA For Office|2020~|3/5|
+|MATLAB|2017~|2/5|
+|Haskell|2019~|2/5|
+
+----------------
 ## Projects
 <br>
 
