@@ -10,6 +10,8 @@
 * Phone(China) : +8615069189313
 * Education: Bachelor Degree, Computer Science, Oregon State University 
 ### Skills
+<br>
+
 ||Experience|Level|
 |-----|-----|-----|
 |C/C++|2017~|3/5|
