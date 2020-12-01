@@ -12,6 +12,7 @@
 |Frame(s)|Web API|
 |Link|[Kalimba](https://github.com/xns1997/ART_352)|
 
+<br>
 <img src="./Kalimba.png" title="Kalimba UI" width=100 >
 
 |Name|Python Tutorial for ME_599|
